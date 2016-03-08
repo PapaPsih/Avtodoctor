@@ -1,0 +1,614 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "YITH WooCommerce Ajax Product Filter"
+msgstr ""
+
+#. Short description.
+msgid "YITH WooCommerce Ajax Product Filter offers you the perfect way to filter all products of your WooCommerce shop."
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin - Appearance -&gt; Widget: WooCommerce Filter Widget List Style"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin - Appearance -&gt; Widget: WooCommerce Filter Widget Color Style"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin - Appearance -&gt; Widget: WooCommerce Filter Widget Label Style"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin - Appearance -&gt; Widget: WooCommerce Filter Widget Dropdown Style"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin - Appearance -&gt; Widget: WooCommerce Filter Reset Button"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend: WooCommerce Widget in sidebar"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend: Dropdown style"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend: Reset button and active filters"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin: YIT Plugins -&gt; Ajax Product Filter -&gt; Front end"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin: YIT Plugins -&gt; Ajax Product Filter -&gt; Custom Style"
+msgstr ""
+
+#. Found in description header.
+msgid "Filter by the specific product you are looking for"
+msgstr ""
+
+#. Found in description header.
+msgid "Premium features of YITH WooCommerce Ajax Product Filter:"
+msgstr ""
+
+#. Found in description header.
+msgid "Compatibility with WooCommerce plugins"
+msgstr ""
+
+#. Found in description list item.
+msgid "List"
+msgstr ""
+
+#. Found in description list item.
+msgid "Dropdown"
+msgstr ""
+
+#. Found in description list item.
+msgid "Color"
+msgstr ""
+
+#. Found in description list item.
+msgid "Label"
+msgstr ""
+
+#. Found in description list item.
+msgid "Reset all applied filters with YITH WooCommerce Ajax Reset Filter widget"
+msgstr ""
+
+#. Found in description list item.
+msgid "Two additional layouts for the YITH WooCommerce Ajax Product Filter widget (BiColor, Tags), in addition to compatibility with the plugin YITH WooCommerce Brands"
+msgstr ""
+
+#. Found in description list item.
+msgid "Customizable reset button (in the YITH WooCommerce Ajax Reset Filter widget)"
+msgstr ""
+
+#. Found in description list item.
+msgid "WooCommerce Search filter for products of a specific price range available thanks to the YITH WooCommerce Ajax List Price Filter widget"
+msgstr ""
+
+#. Found in description list item.
+msgid "Search filter for products on sale/available"
+msgstr ""
+
+#. Found in description list item.
+msgid "Ajax sorting for products displayed in the page (by rate, price, popularity, most recent)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Upload of an icon as customized loader"
+msgstr ""
+
+#. Found in description list item.
+msgid "Customization of the WooCommerce Price Filter widget"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/yith-woocommerce-product-vendors/\">YITH WooCommerce Multi Vendor</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/yith-woocommerce-brands-add-on/\">YITH WooCommerce Brands Add-On</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/yith-product-size-charts-for-woocommerce/\">YITH Product Size Charts for WooCommerce</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"A powerful WooCommerce plugin: WooCommerce product filter widget, WooCommerce Ajax Product Filter lets you apply the filters you need to display the correct WooCommerce variations of the products you are looking for.\n"
+"Choose among color, label, list and dropdown and your WooCommerce filtering search will display those specific products that suit perfectly your needs.\n"
+"An extremely helpful WooCommerce plugin to help customers find what they really want.\n"
+"All this can be done in a quick and very intuitive way that will certainly help your WooCommerce store improve in quality and usability."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Working demos for YITH WooCommerce Ajax Product Filter are available here:\n"
+"<strong><a href=\"http://live.yithemes.com/globe/shop/?layout-shop=sidebar-right\">LIVE DEMO 1</a></strong> - <strong><a href=\"http://preview.yithemes.com/bazar/shop/\">LIVE DEMO 2</a></strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Full documentation for YITH WooCommerce Ajax Product Filter is available <a href=\"http://yithemes.com/docs-plugins/yith-woocommerce-ajax-product-filter/\">here</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Main Features of YITH WooCommerce Ajax Product Filter:</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "YITH WooCommerce Ajax Product Filter is available in combination with many other plugins in <a href=\"https://wordpress.org/plugins/yith-essential-kit-for-woocommerce-1/\"><strong>YITH Essential Kit for WooCommerce #1</strong></a>, a bundle of indispensable tools to make your WooCommerce site look more professional and be more user-friendly. Learn more about all of WooCommerce plugins included and boost your WooCommerce site with a simple click!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "YITH WooCommerce Ajax Product Filter has been tested and compatibility is certain with the following WooCommerce plugins that you can add to your site:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Nevertheless, it could be compatible with many other WooCommerce plugins that have not been tested yet. If you want to inform us about compatibility with other plugins, please, <a href=\"mailto:plugins@yithemes.com\" title=\"Your Inspiration Themes\">email to us</a>."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Unzip the downloaded zip file."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the plugin folder into the <code>wp-content/plugins/</code> directory of your WordPress site."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate <code>YITH WooCommerce Ajax Product Filter</code> from Plugins page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: yith_wcan_show_widget hook to manage the widgets display condition"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: yith_wcan_is_search hook to disable the widgets in search page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Disable widgets in search page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: yith_wcan_untrailingslashit hook for disable untrailingslashit function in filter link"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Performance improved with new plugin core 2.0"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Plugin don't apply filter in category page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Issuet with YITH Infinite Scrolling plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Filter widget don't show in product attribute page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Issue with WPML and Visual Composer plugins in admin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: New wordpress translation text domain added"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Language files called yith-woocommerce-ajax-navigation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed: All language files called yith_wc_ajxnav "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Support to YITH Infinite Scrolling plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: No pagination container issue after filter applied"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: js error yit_wcan not defined"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: issue with blank label"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Custom Style Section"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: New frontend options for script configuration"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated: Plugin Core Framework"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated: Languages file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Support to WordPress 4.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated: Language files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Color lost after change widget style with WordPress 4.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Warning when switch from color to label style"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Support to WooCommerce 2.4"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated: Plugin Framework"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Tag list and child term support "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Support to PAAMAYIM NEKUDOTAYIM in PHP Version &lt; 5.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Frontend classes option panel"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: yith_wcan_ajax_frontend_classes filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: plugin works in product category page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: WPML and String translation support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated: language pot file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated: Italian translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Shop uri management"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: wrong filter link in product category page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Widget doesn't work fine in Shop Category Page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Remove trailing slash in widget shop uri"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Prevent double instance in singleton class"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: The widget doesn't work with WPML with Label and Color style"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Filter 'yith_wcan_product_taxonomy_type' to widget product tax type"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: YITH WooCommerce Brands Add-on support in taxonomy page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Support to Sortable attribute"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Color lost after change widget style"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Empty filters appear after update to 2.0.0"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Unable to active plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Plugin core framework"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Prevent warning issue with no set color/label"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Textdomain conflict"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Filter doesn't work if shop page is on front"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed: old default.po catalog language file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Wrong attribute show with WooCommerce 2.2"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Support to WC 2.2"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Widget error on empty title"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Ajax load on widget type switching"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Wrong enqueue of the main css file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Filter yith_wcan_exclude_terms"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Attribute order (All, Hieralchical or Only Parent style)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Dropdown Style on Firefox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Blank box on attribute without label (Label Style)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Blank box on attribute without color (Color Stle)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Support to WooCommerce 2.1.X"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: One filter bug on sidebar"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Width of select dropdown too large"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Dropdown style"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Support to Wordpress 3.8"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Error with non-latin languages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Improved WPML compatibility"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Title to the color filters"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed: Limit of 3 characters in the label text input"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor bugs fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new widget YITH WooCommerce Ajax Reset Navigation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release"
+msgstr ""
+
+#. Found in faq header.
+msgid "Why isn't the widget displayed in my sidebar?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Translation issue with the version 2.0.0"
+msgstr ""
+
+#. Found in faq header.
+msgid "What are the main changes in plugin translation?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Translation issue with the version 2.4.0"
+msgstr ""
+
+#. Found in faq header.
+msgid "The widget with WooCommerce filters is not working"
+msgstr ""
+
+#. Found in faq header.
+msgid "The page doesn't update after clicking on a WooCommerce filter"
+msgstr ""
+
+#. Found in faq header.
+msgid "PAAMAYIM NEKUDOTAYIM Error after update 2.1.0"
+msgstr ""
+
+#. Found in faq header.
+msgid "Is it compatible with all WordPress themes?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I get support if my WooCommerce plugin is not working?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I get more features for my WooCommerce plugin?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I try the full-featured plugin?"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Test the plugin with a WordPress default theme, to be sure that the error is not caused by the theme you are currently using."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Deactivate all plugins you are using and check if the problem is still occurring."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Ensure that you plugin version, your theme version and your WordPress and WooCommerce version (if required) are updated and that the problem you are experiencing has not already been solved in a later plugin update."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "In order to display the widget, you need to assign it to the sidebar in the Shop page and you also need to add WooCommerce Product Attributes to your product. Read the \"Getting Started\" section of the documentation to learn how to add them."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Dear users,\n"
+"we would like to inform you that the plugin YITH WooCommerce Ajax Navigation will change its name into YITH WooCommerce Ajax Product Filter from the next update.\n"
+"In addition to the name, with the new release the plugin, textdomain will change too from \"yit\" to \"yith_wc_ajxnav\".\n"
+"This change solves issues concerning textdomain conflicts generated by some translation/multilanguage plugins you have identified in the past weeks.\n"
+"It may be possible that, with the plugin update, some language files will not be recognized by WordPress. In this case, you will just have to rename the language files with the correct format, changing the old textdomain with the new one.\n"
+"For example, if your language files were named yit-en_GB.po and yit-en_GB.mo, you will just have to rename them respectively as yith_wc_ajxnav-en_GB.po and yith_wc_ajxnav-en_GB.mo.\n"
+"After renaming the files, you can update/translate the .po file following the classic procedure for translations."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Recently YITH WooCommerce Ajax Product Filter has been selected to be included in the \"translate.wordpress.org\" translate programme. In order to import correctly the plugin strings in the new system, we had to change the text domain form 'yith_wc_ajxnav' to 'yith-woocommerce-ajax-navigation'. Once the plugin will be imported in the translate.wordpress.org system, the translations of other languages will be downloaded directly from WordPress, without using any .po and .mo files. Moreover, users will be able to participate in a more direct way to plugin translations, suggesting texts in their languages in the dedicated tab on translate.wordpress.org. During this transition step, .po and .mo files will be used as always, but in order to be recognized by WordPress, they will need to have a new nomenclature, renaming them in: yith-woocommerce-ajax-navigation-.po yith-woocommerce-ajax-navigation-.mo. For example, if your language files were named yit-en_GB.po and yit-en_GB.mo, you will just have to rename them respectively as yith-woocommerce-ajax-navigation-en_GB.po and yith-woocommerce-ajax-navigation-en_GB.mo."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"The issue could be related to the fact you are using a non-standard template for a WooCommerce shop page. To solve it, you should ask to the theme's author to use WooCommerce standard HTML classes. \n"
+"As an alternative:\n"
+"<strong>For version prior to 2.2.0:</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "you can use this piece of code in functions.php file of your theme:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you don't know which classes you should use, ask to the developer of your theme."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<strong>From version 2.3.0 or later:</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You don't have to write manually the code anymore, as you can just go to YITH Plugin -&gt; Ajax Product Filter -&gt; Front End and set easily the parameters from the text fields."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "After the update 2.1.0, some users of YITH WooCommerce Ajax Product Filter are experiencing the error: \"Parse error: syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM\". This is caused by the PHP version of your server that is older than the 5.3. To solve the issue, you just have to update the plugin to the version 2.1.1."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Compatibility with all themes is impossible, because they are too many, but generally if themes are developed according to WordPress and WooCommerce guidelines, YITH plugins are compatible with them.\n"
+"Yet, we can grant compatibility with themes developed by YIThemes, because they are constantly updated and tested with our plugins. Sometimes, especially when new versions are released, it might only require some time for them to be all updated, but you can be sure that they will be tested and will be working in a few days."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you have problems with our WooCommerce plugins or something is not working as it should, first follow this preliminary steps:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If none of the previous listed actions helps you solve the problem, then, submit a ticket in the forum and describe your problem accurately, specify WordPress and WooCommerce versions you are using and any other information that might help us solve your problem as quickly as possible. Thanks!"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can get more features with the premium version of YITH WooCommerce Ajax Product Filter, available on <a href=\"https://yithemes.com/themes/plugins/yith-woocommerce-ajax-product-filter/\">YIThemes page</a>. Here you can read more about the premium features of the plugin and make it give it its best shot!"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you want to see a demonstration version of the premium plugin, you can see it installed on two different WooCommerce sites, either in <a href=\"http://plugins.yithemes.com/yith-woocommerce-ajax-product-filter/?preview\">this page</a> or in <a href=\"http://preview.yithemes.com/bazar/shop/\">this page</a>. Browse it and try all options available so that you can see how your plugin looks like."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Translators"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Available Languages"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Documentation"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "English (Default)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Italiano"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid ""
+"If you have created your own language pack, or have an update for an existing one, you can send <a href=\"http://codex.wordpress.org/Translating_WordPress\" title=\"Translating WordPress\">gettext PO and MO file</a>\n"
+"<a href=\"http://yithemes.com/contact/\" title=\"Your Inspiration Themes\">use</a> so we can bundle it into YITH WooCommerce Ajax Navigation Languages."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Full documentation is available <a href=\"http://yithemes.com/docs-plugins/yith_woocommerce_ajax_navigation/\">here</a>."
+msgstr ""

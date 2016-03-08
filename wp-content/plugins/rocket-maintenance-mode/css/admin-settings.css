@@ -1,0 +1,136 @@
+.postbox {
+	min-width: 200px;
+	background: white;
+	border: 1px solid #E1E1E1;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+	position: relative;
+	border-radius: 0;
+	max-width: 98%;
+}
+
+.postbox .inside {
+	margin: 2px;
+}
+
+.inside {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.handlediv {
+	display: none;
+}
+
+#wpmmp_options .wpmmp_input {
+	border: 0px !important;
+}
+
+#wpmmp_options {
+	background-color: white;
+	border: 0px;
+	padding: 0;
+}
+
+#wpmmp_options td{
+	padding: 10px;
+}
+
+#wpmmp_options tbody tr td {
+	padding: 10px;
+	border-top: 1px solid whiteSmoke;
+	border-bottom: 0 none;
+}
+
+#wpmmp_options td.label{
+	border-top: 1px solid #F0F0F0;
+}
+
+.wp-list-table {
+	border-radius: 0;
+	border: 1px solid #E1E1E1;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+table.wpmmp_input {
+	border: #86a1b5 solid 1px;
+	position: relative;
+	overflow: hidden;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+	border-radius: 0;
+}
+
+table.wpmmp_input input[type="text"], table.wpmmp_input textarea, table.wpmmp_input select {
+	width: 99.95%;
+	padding: 5px;
+	outline: none;
+}
+
+table.wpmmp_input tbody tr:first-child td, table.wpmmp_input tbody tr:first-child td.label {
+	border-top: 0 none;
+}
+
+table.wpmmp_input tbody tr td.label label span.required {
+	color: red;
+	display: inline;
+	margin-right: 5px;
+}
+
+table.wpmmp_input tbody tr td.label {
+	width: 24%;
+	vertical-align: top;
+	background: #F9F9F9;
+	border-top: 1px solid #F0F0F0;
+	border-right: 1px solid #E1E1E1;
+}
+
+table.wpmmp_input tbody tr td.label p {
+	display: block;
+	font-size: 12px;
+	padding: 6px 0 !important;
+	margin: 0 !important;
+	font-style: normal;
+	line-height: 16px;
+	color: #666;
+}
+
+table.wpmmp_input tbody tr td.label label {
+	display: block;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	color: #333;
+}
+
+#wpmmp_options input[type=text] {
+	width: 90%;
+}
+
+#wpmmp_options p label span{
+	font-weight: bold;
+	position: relative;
+	left: 5px;
+	top: 2px;
+}
+
+.nav-tab-wrapper {
+	margin-bottom: 0px;
+}
+
+#wpmmp-themes li{
+	float: left;
+	margin: 5px;
+	margin-left: 25px;
+}
+
+#wpmmp-themes li img {
+	width: 250px;
+	-moz-box-shadow:    3px 3px 5px 6px #ccc;
+  	-webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  	box-shadow:         3px 3px 5px 6px #ccc;
+}
+
+.wpmmp-banner-paid-image {
+	margin-top: 10px;
+	width: 98%;
+}
