@@ -31,10 +31,6 @@
 		if ( is_wp_error( $response ) ) {
 		   $error_message = $response->get_error_message();
 		   echo "Ошибка: $error_message";
-		} else {
-		   echo 'Ответ:<pre>';
-		   print_r( $response );
-		   echo '</pre>';
 		}
 	}
 

@@ -25,6 +25,4 @@ if ($_GET['code']) {
 
          $fb->get_user();
 
-        $fb->get_link_share();
-
 }

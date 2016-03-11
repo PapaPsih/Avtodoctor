@@ -179,9 +179,10 @@
                                     <div class="subscription__email">
                                         <div class="subscription_email__i">
                                             <form action="#" id="form-validate">
-                                                <input type="text" placeholder="E-mail" name="email" />
+                                                <input type="text" placeholder="E-mail" name="email_subscribe" />
+                                                <input type="hidden" name="id_newsletters" value="1">
                                                 <div class="sub">
-                                                    <input type="submit" value="submit" />
+                                                    <input type="submit" value="submit" onclick="newSubscribe()" />
                                                 </div>
                                             </form>
                                         </div>

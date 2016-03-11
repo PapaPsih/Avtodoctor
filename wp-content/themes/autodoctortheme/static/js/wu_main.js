@@ -261,7 +261,7 @@ function emailNotificationAboutRegistration(){
 function newSubscribe(){
 	var data = {
 		action: 'subscribe',
-		id_newsletter: $('#newsletters').val(),
+		id_newsletter: $('[name=id_newsletters]').val(),
 		email_subscribe: $('[name=email_subscribe]').val()
 	};
 	jQuery.post( myajax.url, data, function(response) {

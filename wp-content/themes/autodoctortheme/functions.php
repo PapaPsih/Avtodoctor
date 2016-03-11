@@ -58,6 +58,8 @@ session_start();
     add_action( 'after_setup_theme', 'custom_login' );
 
 
+
+
     function change_name($name) {
         return 'Avtodoctor';
     }
@@ -291,8 +293,8 @@ session_start();
 
 	function send_all_subscribers_autodoctor(){
 		$result = json_decode( get_subscribers_list($_POST['id_newsletter']), true);
-		var_dump($_POST['subscribe_text']);		
-		for ($i=0; $i < count($result); $i++) { 
+		var_dump($_POST['subscribe_text']);
+		for ($i=0; $i < count($result); $i++) {
 			sendEmail(array('recipient' => $result[$i]['email'],
 						  	'subject' => $_POST['subscribe_subject'],
 						  	'message' => $_POST['subscribe_text']));
@@ -302,6 +304,33 @@ session_start();
 	}
 	
 	add_action( 'wp_login_failed', 'pu_login_failed' ); // hook failed login
+
+function send_all_subscribers($post_ID) {
+
+    if ( !wp_is_post_revision( $post_ID ) )
+        return;
+
+    $post_cat = get_the_category();
+
+     if ($post_cat[0]->term_id == 7 || $post_cat[0]->term_id == 8)
+        $id_newslatters = 1;
+     else if ($post_cat[0]->term_id == 15 || $post_cat[0]->term_id == 16)
+        $id_newslatters = 2;
+    else return;
+
+    $result = json_decode( get_subscribers_list($id_newslatters), true);
+
+    $result = array_merge($result , json_decode( get_subscribers_list(3), true));
+
+    for ($i=0; $i < count($result); $i++) {
+        sendEmail(array('recipient' => $result[$i]['email'],
+           'subject' => 'Avtodoctor',
+           'message' => get_site_url().'/all-news/new/?new='.$post_ID));
+    }
+
+
+}
+add_action( 'save_post', 'send_all_subscribers' );
 
 function pu_login_failed( $user ) {
   	// check what page the login attempt is coming from
@@ -390,9 +419,7 @@ function show_feedbacks_product ($product_id, $answer_id = -1)
 							);
 			$result_list = get_feedback_list ($feedback_data);
 
-            $answer_cnt = 0;
-
-        if ($result_list && $answer_id = -1)
+        if ($result_list && $answer_id == -1)
                 $new_feedback .= '<div class="media">';
 
 			foreach ($result_list as $feedback_one)
@@ -483,7 +510,8 @@ function add_new_feedback ()
 							'user_email' => $_POST['user_email'],
 							'feedback' => $_POST['feedback_text'],
                             'feedback_location' => $_POST['feedback_location'],
-                            'answer_id' => $_POST['answer_id']
+                            'answer_id' => $_POST['answer_id'],
+                            'parent' => $_POST['parent']
 								 
 								 );
     }

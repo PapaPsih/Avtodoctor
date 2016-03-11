@@ -204,10 +204,9 @@ get_header( 'shop' ); ?>
                                             <p>Войти используя</p>
 
                                             <div class="social-likes" data-counters="no">
-                                                <div class="facebook" title="Поделиться ссылкой на Фейсбуке">Facebook</div>
-                                                <div class="vkontakte" title="Поделиться ссылкой во Вконтакте">Вконтакте
-                                                </div>
-                                                <div class="plusone" title="Поделиться ссылкой в Гугл-плюсе">Google+</div>
+                                                <a href="<?php echo esc_url( get_template_directory_uri() ); ?>/woocommerce/auth/auth_social_fb.php"><img style="margin: 5px 6px" src="<?php echo esc_url( get_template_directory_uri() ); ?>/static/img/content/social.png" height="29px" width="29px"/></a>
+                                                <a href="<?php echo esc_url( get_template_directory_uri() ); ?>/woocommerce/auth/auth_social.php"><img style="margin: 5px 6px;" src="<?php echo esc_url( get_template_directory_uri() ); ?>/static/img/content/c-vk.png" height="29px" width="29px"/></a>
+                                                <a href=""><img style="margin: 5px 6px;" src="<?php echo esc_url( get_template_directory_uri() ); ?>/static/img/content/c-g.png" height="29px" width="29px"/></a>
                                             </div>
                                         </div>
                                     </div> <?php } ?>
