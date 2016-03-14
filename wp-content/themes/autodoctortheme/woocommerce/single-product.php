@@ -173,9 +173,10 @@ get_header( 'shop' ); ?>
                                 <div id="feedback-error"></div>
 
                                 <ul class="media-list" id="feedback_list" >
+                                    <div class="media">
 
                                      <?php show_feedbacks_product ($product->id) ?>
-
+                                        </div>
                                 </ul>
                                 <!-- media-list end-->
 

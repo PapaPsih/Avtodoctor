@@ -1420,7 +1420,6 @@
       <column name="date" sqlType="VARCHAR" length="10" precision="0" nullable="false" jdbcType="12"/>
       <column name="auto_brand" sqlType="VARCHAR" length="50" precision="0" nullable="false" jdbcType="12"/>
       <column name="model" sqlType="VARCHAR" length="50" precision="0" nullable="false" jdbcType="12"/>
-      <column name="parent" sqlType="TINYINT" length="3" precision="0" nullable="false" jdbcType="-6" def="MA=="/>
       <primary-key name="PRIMARY" columns="id_feedback"/>
       <index name="answer_id" unique="false" columns="answer_id"/>
     </table>

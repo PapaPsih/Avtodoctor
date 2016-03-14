@@ -249,8 +249,8 @@ if ($_POST['close'] == $single_cat->term_id)
                             <p>Вы можете зарегистрироваться с помощью учетных записей социальных сетей</p>
 
                             <div class="btns">
-                                <a href="#" class="btn btn_vk">Вконтакте</a>
-                                <a href="#" class="btn btn_f">Facebook</a>
+                                <a href="<?php echo esc_url( get_template_directory_uri() ); ?>/woocommerce/auth/auth_social.php" class="btn btn_vk">Вконтакте</a>
+                                <a href="<?php echo esc_url( get_template_directory_uri() ); ?>/woocommerce/auth/auth_social_fb.php" class="btn btn_f">Facebook</a>
                             </div>
                             <div class="either">
                                 <span>или</span>
@@ -283,8 +283,8 @@ if ($_POST['close'] == $single_cat->term_id)
                             <p>Войти как пользователь</p>
 
                             <div class="btns">
-                                <a href="#" class="btn btn_vk">Вконтакте</a>
-                                <a href="#" class="btn btn_f">Facebook</a>
+                                <a href="<?php echo esc_url( get_template_directory_uri() ); ?>/woocommerce/auth/auth_social.php" class="btn btn_vk">Вконтакте</a>
+                                <a href="<?php echo esc_url( get_template_directory_uri() ); ?>/woocommerce/auth/auth_social_fb.php" class="btn btn_f">Facebook</a>
                             </div>
                             <div class="either">
                                 <span>или</span>

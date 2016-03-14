@@ -110,7 +110,7 @@ var PricesCalculator = {
 		var self = this;
 		$.ajax({
 		  method: "POST",
-		  url: location.origin + "/my_orders/autodoctor/wordpress/wp-content/themes/autodoctortheme/included_scripts/prices_calculator.php",
+		  url: location.origin + "/wp-content/themes/autodoctortheme/included_scripts/prices_calculator.php",
 		  data: { name_query: "get_categories" }
 		}).done(function( msg ) {
 			console.log(msg);
@@ -134,7 +134,7 @@ var PricesCalculator = {
 		var self = this;
 		$.ajax({
 		  method: "POST",
-		  url: location.origin + "/my_orders/autodoctor/wordpress/wp-content/themes/autodoctortheme/included_scripts/prices_calculator.php",
+		  url: location.origin + "/wp-content/themes/autodoctortheme/included_scripts/prices_calculator.php",
 		  data: { name_query: "get_services", id_category: $('#categories').val() }
 		}).done(function( msg ) {
 			console.log(msg);

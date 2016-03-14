@@ -26,6 +26,7 @@
 
 		public function getCategories(){
 			$query = "SELECT pc_categories.*  FROM pc_categories";
+            mysql_query( "SET CHARACTER SET UTF8", $this->descriptor );
 			$result = mysql_query ( $query, $this->descriptor );
 			
 			while($row = mysql_fetch_array( $result )){
@@ -38,6 +39,7 @@
 
 		public function getServices($id_category){
 			$query = "SELECT *  FROM pc_services WHERE id_category = " . $id_category;
+            mysql_query( "SET CHARACTER SET utf8", $this->descriptor );
 			$result = mysql_query ( $query, $this->descriptor );
 			
 			while($row = mysql_fetch_array( $result )){
@@ -58,8 +60,9 @@
 	}
 
 	if($_POST['name_query']){
-		$mysql_object = new MySQLConnector($db_host, $db_user, $pdb_assword, $db_name);
+		$mysql_object = new MySQLConnector($db_host, $db_user, $db_password, $db_name);
 		$mysql_object->connectDB();
+
 
 		switch ($_POST['name_query']) {
 			case 'get_categories':

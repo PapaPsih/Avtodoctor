@@ -33,7 +33,6 @@
 		$mydb = new wpdb(DB_USER,DB_PASSWORD,DB_NAME,DB_HOST);
 		$myrows = $mydb->get_results( "SELECT email FROM wu_newsletters_subscribers WHERE id_newsletter = " .  $id_newsletter );
 		return json_encode($myrows);
-        $q = "INSERT INTO reports ( user_id, user_name, user_phone, user_email, course_name, course_cost, liqpay_order_id, payment_id, status) VALUES ('".$user->get('id')."', '".$user->get('name')."', '".$user->get('email')."','".$course_name."' , 1350, '".$array['liqpay_order_id']."', '".$array['payment_id']."', '".$array['status']."')";
 	}
 
 	//register_activation_hook( __FILE__, array( 'SMS_by_Turbosms', 'plugin_activation' ) );
