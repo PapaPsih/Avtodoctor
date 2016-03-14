@@ -410,20 +410,26 @@ function custom_login() {
 
 }
 
-function show_feedbacks_product ($product_id, $answer_id = -1)
+function show_feedbacks_product ($product_id, $answer_id = -1, $new_feedback = '', $answer_cnt = 0)
 {
-
 	$feedback_data = array (
 			'product_id' => $product_id,
-			'feedback_location' => 'product'
+			'feedback_location' => 'product',
+            'answer_id' => $answer_id
 							);
 			$result_list = get_feedback_list ($feedback_data);
+  // var_dump($result_list);
 
-        if ($result_list && $answer_id == -1)
+        if ($result_list)
                 $new_feedback .= '<div class="media">';
+    else
+        return ;
 
 			foreach ($result_list as $feedback_one)
 			{
+                if ($feedback_one->answer_id == 0 || $answer_id != -1)
+                {
+
 						$new_feedback .= '<div class="media-body">';
 
                         $new_feedback .= '<div class="info">
@@ -438,46 +444,22 @@ function show_feedbacks_product ($product_id, $answer_id = -1)
                                             if (current_user_can('administrator'))
                                 $new_feedback .= '   <a href="" onclick="delete_feedback('.$feedback_one->id_feedback.')" >Удалить</a>
                                             </div>';
-                    if ($answer_id != -1)
-                        $answer_cnt++;
+                    if ($answer_cnt == 0)
+                    {
+                        $answers = show_feedbacks_product($product_id, $feedback_one->id_feedback, $new_feedback, $answer_cnt +1);
+                       $new_feedback .= $answers;
+                        echo $new_feedback;
+                    }
+                    else
+                        $new_feedback .= show_feedbacks_product($product_id, $feedback_one->id_feedback, $new_feedback, $answer_cnt +1);
 
-               show_feedbacks_product($product_id, $feedback_one->id_feedback);
+                  //for ($i=0; $i<$answer_cnt; $i++)
+                       // $new_feedback .= '</div></div>';
 
-/*
-						foreach ($result_list as $feedback_answer)
-						{
-							if ($feedback_answer->answer_id == $feedback_one->id_feedback )
-							{
-								$new_feedback .= '<div class="media">';
-				
-								$new_feedback .= '<div class="media-body">';
-
-								$new_feedback .= '<div class="info">
-										<p>'.
-                                       $feedback_answer->feedback
-                                       .'</p>
-                                       </div>
-											<div class="name">
-                                           <b>'.$feedback_answer->user_name.'.</b>
-                                                <div class="data">'.$feedback_answer->date.'</div>
-                                                <a href="" onclick="add_answer(\''.$feedback_one->user_name.', \' ,\''.$feedback_answer->id_feedback.'\')" >Ответить</a>';
-                                if (current_user_can('administrator'))
-                                $new_feedback .= '   <a href="" onclick="delete_feedback('.$feedback_one->id_feedback.')" >Удалить</a>
-
-                                            </div>';
-											
-											$answer_cnt++;
-							}
-						}
-						for ($i=0; $i<$answer_cnt; $i++)
-							$new_feedback .= '</div></div>';
-					}*/
+                }
 			}
-   // for ($i=0; $i<$answer_cnt; $i++)
-        $new_feedback .= '</div></div>';
 
-			echo $new_feedback;
-
+    return $new_feedback;
 }
 
 function show_feedbacks ($feedback_location)
@@ -510,9 +492,7 @@ function add_new_feedback ()
 							'user_email' => $_POST['user_email'],
 							'feedback' => $_POST['feedback_text'],
                             'feedback_location' => $_POST['feedback_location'],
-                            'answer_id' => $_POST['answer_id'],
-                            'parent' => $_POST['parent']
-								 
+                            'answer_id' => $_POST['answer_id']
 								 );
     }
     if ($_POST['feedback_location']=='home' || $_POST['feedback_location']=='services')
