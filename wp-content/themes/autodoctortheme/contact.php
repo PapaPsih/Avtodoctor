@@ -27,25 +27,25 @@
                             endif;  
                         ?>
                         <div class="address-form">
-                            <form action="#">
+                            <form action="<?php echo get_page_link(); ?>">
                                 <div class="title">
                                     <span>Пишите письма</span>
                                 </div>
                                 <div class="row">
-                                    <input type="text" class="inp" placeholder="Как вас зовут" />
+                                    <input id="client_name" name="client_name" type="text" class="inp" placeholder="Как вас зовут" />
                                 </div>
                                 <div class="row">
-                                    <input type="text" class="inp" placeholder="Почта" />
+                                    <input id="client_email" name="client_email" type="text" class="inp" placeholder="Почта" />
                                 </div>
                                 <div class="row">
-                                    <input type="text" class="inp" placeholder="Ваш телефон" />
+                                    <input id="client_phone" name="client_phone" type="text" class="inp" placeholder="Ваш телефон" />
                                 </div>
                                 <div class="row">
-                                    <textarea name="#" cols="30" rows="10" placeholder="Ваше сообщение"></textarea>
+                                    <textarea id="client_message" name="client_message" cols="30" rows="10" placeholder="Ваше сообщение"></textarea>
                                 </div>
                                 <div class="item">
-                                    <div class="btn btn_white">
-                                        <input type="button" />Отправить</div>
+                                    <div class="btn btn_white" style="cursor: pointer">
+                                        <input type="submit" />Отправить</div>
                                 </div>
                             </form>
                         </div>

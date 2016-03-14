@@ -32,8 +32,8 @@ function newFeedback() {
             user_name: $('[name=user_name]').val(),
             user_email: $('[name=user_email]').val(),
             feedback_location: $('[name=feedback_location]').val(),
-            auto_brand: $('[name=auto_brand]').val(),
-            model: $('[name=model]').val()
+            auto_brand: $('#auto_brand option:selected').text(),
+            model: $('#model option:selected').text()
         };
     }
 	jQuery.post( myajax.url, data, function (prin) {

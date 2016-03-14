@@ -55,6 +55,9 @@ session_start();
     add_action('wp_ajax_create_new_order', 'create_new_order');
     add_action('wp_ajax_nopriv_create_new_order', 'create_new_order');
 
+    add_action('wp_ajax_send_email', 'send_email');
+    add_action('wp_ajax_nopriv_send_email', 'send_email');
+
     add_action( 'after_setup_theme', 'custom_login' );
 
 
@@ -503,6 +506,7 @@ function add_new_feedback ()
             'feedback' => $_POST['feedback_text'],
             'feedback_location' => $_POST['feedback_location'],
             'auto_brand' => $_POST['auto_brand'],
+            'model' => $_POST['model']
                                         );
     }
     add_feedback($arr);
@@ -1135,6 +1139,13 @@ function register_user ()
     }
 }
 
+function send_email(){
+    sendEmail(array('recipient' => $_POST['client_email'],
+        'subject' => $_POST['client_subject'],
+        'message' => $_POST['client_message']));
+    var_dump($_POST);
+    wp_die();
+}
 
 
 

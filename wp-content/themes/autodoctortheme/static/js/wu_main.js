@@ -503,5 +503,20 @@ function select_filter_feedback ()
     });
 }
 
+function sendEmail(email){
+    var data = {
+        action: 'send_email',
+        sender_email: $('[name=client_email]').val(),
+        client_email: email,
+        client_message: $('[name=client_message]').html(),
+        client_subject: $('[name=client_subject]').val(),
+        client_name: $('[name=client_subject]').val(),
+        client_phone: $('[name=client_subject]').val()
+    };
+    jQuery.post( myajax.url, data, function(response) {
+        console.log(response);
+    });
+}
+
 
 
