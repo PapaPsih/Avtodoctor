@@ -4,269 +4,77 @@
     <bookmark url="dbDummy://dbtable:/39022cae/18c4beaa-4494-47d7-b84b-83215653ba2f/autodoctor..wp_term_taxonomy" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="641999b4-2056-438f-aa8a-4c84f46ea52c" name="Default" comment="test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/hu/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Csv/fixtures/iso-8859-15.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/lastbook.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/pricevlad_20160114_130853_Contr_7725-11 (2).xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/pricevlad_20160114_130853_Contr_7725-11.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/pricevlad_20160114_130853_Contr_7725-11.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/pricevlad_20160114_130853_Contr_7725-11CSV.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/module/pricevlad_20160114_130853_Contr_7725-11CSV.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/CachedObjectStorage/APC.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/Abstract.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Abstract.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Cell/AdvancedValueBinder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Style/Alignment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/AutoFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Autoloader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel5/BIFFwriter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/BaseDrawing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE/Blip.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Style/Border.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Style/Borders.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/JAMA/CHANGELOG.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/CSV.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/CSV.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/CachedObjectStorage/CacheBase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/CachedObjectStorageFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Cell.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/CellIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/OLE/ChainedBlockStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Chart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/Excel2007/Chart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel2007/Chart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/JAMA/CholeskyDecomposition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/CodePage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Style/Color.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/AutoFilter/Column.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/ColumnDimension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Comment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel2007/Comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Style/Conditional.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel2007/ContentTypes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/PDF/Core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/CalcEngine/CyclicReferenceStack.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Chart/DataSeries.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Chart/DataSeriesValues.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Cell/DataType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Cell/DataValidation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation/Database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/Date.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation/DateTime.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/DefaultReadFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Cell/DefaultValueBinder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/Escher/DgContainer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/Escher/DggContainer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel2007/DocProps.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/DocumentProperties.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/DocumentSecurity.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/PDF/DomPDF.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/Drawing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/Drawing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel2007/Drawing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation/Engineering.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/JAMA/utils/Error.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/Excel5/Escher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/Escher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel5/Escher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/Excel2003XML.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/Excel2007.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel2007.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/Excel5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/Excel5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Chart/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation/ExceptionHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/OLE/PPS/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Style/Fill.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation/Financial.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/Font.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Style/Font.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel5/Font.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation/FormulaParser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation/FormulaToken.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation/Function.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation/Functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/Gnumeric.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/HTML.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/HTML.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/HashTable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/HeaderFooter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Cell/Hyperlink.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/CachedObjectStorage/ICache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/IComparable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/IOFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/IReadFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/IReader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/RichText/ITextElement.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Cell/IValueBinder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/IWriter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/CachedObjectStorage/Igbinary.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/JAMA/LUDecomposition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Chart/Layout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Chart/Legend.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/CalcEngine/Logger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation/Logical.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation/LookupRef.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/Excel5/MD5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation/MathTrig.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/JAMA/utils/Maths.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/JAMA/Matrix.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/CachedObjectStorage/Memcache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/CachedObjectStorage/Memory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/MemoryDrawing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/NamedRange.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Style/NumberFormat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/OLE.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/OLERead.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/OOCalc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/PDF.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Chart/Renderer/PHP Charting Libraries.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/OLE/PPS.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/PageMargins.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/PageSetup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel5/Parser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/PasswordHasher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Chart/PlotArea.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Style/Protection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/Protection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/JAMA/QRDecomposition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/Excel5/RC4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/ReferenceHelper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel2007/Rels.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel2007/RelsRibbon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel2007/RelsVBA.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/RichText.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/OLE/PPS/Root.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/Row.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/RowDimension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/RowIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Csv/RowIteratorSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/AutoFilter/Column/Rule.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/RichText/Run.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/CachedObjectStorage/SQLite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/CachedObjectStorage/SQLite3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/SYLK.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/Drawing/Shadow.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet/SheetView.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/JAMA/SingularValueDecomposition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/Escher/DgContainer/SpgrContainer/SpContainer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/Escher/DgContainer/SpgrContainer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Csv/SpreadsheetLoaderSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Csv/SpreadsheetSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation/Token/Stack.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation/Statistical.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/String.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel2007/StringTable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Style.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel2007/Style.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Style/Supervisor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation/TextData.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/RichText/TextElement.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Reader/Excel2007/Theme.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel2007/Theme.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/TimeZone.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Chart/Title.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/CachedObjectStorage/Wincache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel2007/Workbook.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel5/Workbook.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Worksheet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel2007/Worksheet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel5/Worksheet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/WorksheetIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel2007/WriterPart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/XMLWriter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/Excel5/Xf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/ZipArchive.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/ZipStreamWrapper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/trend/bestFitClass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/bg/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/cs/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/da/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/de/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/en/uk/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/es/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/fi/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/fr/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/hu/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/it/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/nl/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/no/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/pl/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/pt/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/pt/br/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/ru/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/sv/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/tr/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/trend/exponentialBestFitClass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Calculation/functionlist.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/cs/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/da/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/de/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/es/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/fi/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/fr/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/it/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/nl/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/no/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/pl/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/pt/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/pt/br/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/ru/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/sv/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/locale/tr/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/PCLZip/gnu-lgpl.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Chart/Renderer/jpgraph.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/js/jquery-1.11.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/trend/linearBestFitClass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/PDF/mPDF.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/trend/polynomialBestFitClass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/trend/powerBestFitClass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/PCLZip/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Writer/PDF/tcPDF.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/js/tecdoc_loader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Csv/fixtures/test.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/module/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/php_excel/Classes/PHPExcel/Shared/trend/trendClass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Csv/fixtures/with_options.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/cap.html" afterPath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/cap.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/included_scripts/db_data.php" afterPath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/included_scripts/db_data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/feedback/feedback.php" afterPath="$PROJECT_DIR$/wp-content/plugins/feedback/feedback.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/newsletter/newsletter.php" afterPath="$PROJECT_DIR$/wp-content/plugins/newsletter/newsletter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/included_scripts/prices_calculator.php" afterPath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/included_scripts/prices_calculator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/services.php" afterPath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/services.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/woocommerce/single-product.php" afterPath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/woocommerce/single-product.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="641999b4-2056-438f-aa8a-4c84f46ea52c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/tests/fixtures/libreoffice.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/tests/fixtures/msoffice.xlsm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/tests/fixtures/msoffice.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/fixtures/test.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/~$calculator.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/~$pricevlad_20160114_130853_Contr_7725-11.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/AbstractXMLDictionnary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/AbstractXMLResource.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/Archive.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/ArchiveLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/ArchiveLoaderSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/ArchiveSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/ColumnIndexTransformer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/ColumnIndexTransformerSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Csv/CsvParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/tests/CsvTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/DateTransformer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/DateTransformerSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/Relationships.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/RelationshipsLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/RelationshipsLoaderSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/RelationshipsSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/RowBuilder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/RowBuilderFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/RowBuilderFactorySpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/RowBuilderSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Csv/RowIterator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/RowIterator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Csv/RowIteratorFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/RowIteratorFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/RowIteratorFactorySpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/RowIteratorSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/SharedStrings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/SharedStringsLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/SharedStringsLoaderSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/SharedStringsSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Csv/Spreadsheet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/Spreadsheet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/SpreadsheetInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/SpreadsheetLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Csv/SpreadsheetLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/SpreadsheetLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/SpreadsheetLoaderInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/SpreadsheetLoaderSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/SpreadsheetLoaderSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/SpreadsheetParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/SpreadsheetSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/Styles.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/StylesLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/StylesLoaderSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/StylesSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/ValueTransformer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/ValueTransformerFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/ValueTransformerFactorySpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/ValueTransformerSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/WorksheetListReader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/WorksheetListReaderSpec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/XlsxParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/tests/XlsxTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/fixtures/sharedStrings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/fixtures/sheet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/fixtures/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/tecdoc_base/tecdoc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/tecdoc_loader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/tests/fixtures/test.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/tests/fixtures/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/fixtures/workbook.xml.rels" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/fixtures/workbook.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/functions.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/js/wu_main.js" afterPath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/js/wu_main.js" />
     </list>
     <ignored path="wordpress.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -292,7 +100,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="246" column="193" selection-start="13144" selection-end="13144" vertical-scroll-proportion="0.0" vertical-offset="3774" max-vertical-offset="4692">
+            <state line="246" column="193" selection-start="13144" selection-end="13144" vertical-scroll-proportion="-15.692307" vertical-offset="3774" max-vertical-offset="4692">
               <folding />
             </state>
           </provider>
@@ -301,29 +109,29 @@
       <file leaf-file-name="functions.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="438" column="38" selection-start="16549" selection-end="16549" vertical-scroll-proportion="0.29376855" vertical-offset="7248" max-vertical-offset="19567">
+            <state line="443" column="39" selection-start="16988" selection-end="16988" vertical-scroll-proportion="0.4198813" vertical-offset="7248" max-vertical-offset="19584">
               <folding>
-                <marker date="1457921750584" expanded="true" signature="8778:8819" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="9124:9180" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="19544:19924" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="19581:19758" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="31083:31806" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="31151:31402" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="31203:31351" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="31470:31577" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="31645:31759" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="33246:33320" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="33297:33320" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="33380:33453" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="33431:33453" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="35312:35386" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="35363:35386" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="35446:35519" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="35497:35519" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="37577:37651" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="37628:37651" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="37711:37784" placeholder="..." />
-                <marker date="1457921750584" expanded="true" signature="37762:37784" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="8778:8819" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="9124:9180" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="19550:19930" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="19587:19764" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="31089:31812" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="31157:31408" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="31209:31357" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="31476:31583" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="31651:31765" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="33252:33326" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="33303:33326" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="33386:33459" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="33437:33459" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="35318:35392" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="35369:35392" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="35452:35525" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="35503:35525" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="37583:37657" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="37634:37657" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="37717:37790" placeholder="..." />
+                <marker date="1457971877208" expanded="true" signature="37768:37790" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -367,7 +175,7 @@
       <file leaf-file-name="archive-product.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/woocommerce/archive-product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="11" selection-start="1916" selection-end="1916" vertical-scroll-proportion="0.0" vertical-offset="884" max-vertical-offset="2533">
+            <state line="52" column="11" selection-start="1916" selection-end="1916" vertical-scroll-proportion="5.230769" vertical-offset="884" max-vertical-offset="2040">
               <folding>
                 <marker date="1457032899048" expanded="true" signature="1856:1901" placeholder="SELECT DISTI..wp_product_filters..." />
               </folding>
@@ -378,10 +186,22 @@
       <file leaf-file-name="prices_calculator.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/included_scripts/prices_calculator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="64" selection-start="873" selection-end="873" vertical-scroll-proportion="0.0" vertical-offset="263" max-vertical-offset="1360">
+            <state line="29" column="64" selection-start="873" selection-end="873" vertical-scroll-proportion="-8.846154" vertical-offset="263" max-vertical-offset="1360">
               <folding>
                 <marker date="1457915867921" expanded="true" signature="701:743" placeholder="SELECT pc_ca..pc_categories..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autodoctor.wp_feedback" pinned="false" current="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/39022cae/18c4beaa-4494-47d7-b84b-83215653ba2f/autodoctor..wp_feedback">
+          <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -394,7 +214,15 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="PapaPsih" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="SYNC_SETTING" value="DONT" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/js/wu_main.js" root0="FORCE_HIGHLIGHTING" />
@@ -613,7 +441,7 @@
     <property name="SearchEverywhereHistory" value="" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.lastSelected" value="vcs.Git" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -706,7 +534,11 @@
       <created>1457924271017</created>
       <updated>1457924271017</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="14.03.16&#10;">
+      <created>1457924452737</created>
+      <updated>1457924452737</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -767,9 +599,9 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="14.03.16&#10;" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="14.03.16&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="14.03.16&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1065,13 +897,6 @@
         <state line="177" column="43" selection-start="7438" selection-end="7438" vertical-scroll-proportion="-21.346153" vertical-offset="2318" max-vertical-offset="4471" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="246" column="193" selection-start="13144" selection-end="13144" vertical-scroll-proportion="0.0" vertical-offset="3774" max-vertical-offset="4692">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/woocommerce/auth/Auth_Fb.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="91" column="70" selection-start="2206" selection-end="2206" vertical-scroll-proportion="2.0727003" vertical-offset="150" max-vertical-offset="2023" />
@@ -1165,9 +990,16 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="659" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="246" column="193" selection-start="13144" selection-end="13144" vertical-scroll-proportion="-15.692307" vertical-offset="3774" max-vertical-offset="4692">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/woocommerce/archive-product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="11" selection-start="1916" selection-end="1916" vertical-scroll-proportion="0.0" vertical-offset="884" max-vertical-offset="2533">
+        <state line="52" column="11" selection-start="1916" selection-end="1916" vertical-scroll-proportion="5.230769" vertical-offset="884" max-vertical-offset="2040">
           <folding>
             <marker date="1457032899048" expanded="true" signature="1856:1901" placeholder="SELECT DISTI..wp_product_filters..." />
           </folding>
@@ -1176,7 +1008,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/included_scripts/prices_calculator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="64" selection-start="873" selection-end="873" vertical-scroll-proportion="0.0" vertical-offset="263" max-vertical-offset="1360">
+        <state line="29" column="64" selection-start="873" selection-end="873" vertical-scroll-proportion="-8.846154" vertical-offset="263" max-vertical-offset="1360">
           <folding>
             <marker date="1457915867921" expanded="true" signature="701:743" placeholder="SELECT pc_ca..pc_categories..." />
           </folding>
@@ -1188,34 +1020,36 @@
         <state />
       </provider>
       <provider editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="438" column="38" selection-start="16549" selection-end="16549" vertical-scroll-proportion="0.29376855" vertical-offset="7248" max-vertical-offset="19567">
+        <state line="443" column="39" selection-start="16988" selection-end="16988" vertical-scroll-proportion="0.4198813" vertical-offset="7248" max-vertical-offset="19584">
           <folding>
-            <marker date="1457921750584" expanded="true" signature="8778:8819" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="9124:9180" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="19544:19924" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="19581:19758" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="31083:31806" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="31151:31402" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="31203:31351" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="31470:31577" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="31645:31759" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="33246:33320" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="33297:33320" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="33380:33453" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="33431:33453" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="35312:35386" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="35363:35386" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="35446:35519" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="35497:35519" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="37577:37651" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="37628:37651" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="37711:37784" placeholder="..." />
-            <marker date="1457921750584" expanded="true" signature="37762:37784" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="8778:8819" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="9124:9180" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="19550:19930" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="19587:19764" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="31089:31812" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="31157:31408" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="31209:31357" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="31476:31583" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="31651:31765" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="33252:33326" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="33303:33326" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="33386:33459" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="33437:33459" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="35318:35392" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="35369:35392" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="35452:35525" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="35503:35525" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="37583:37657" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="37634:37657" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="37717:37790" placeholder="..." />
+            <marker date="1457971877208" expanded="true" signature="37768:37790" placeholder="..." />
           </folding>
         </state>
       </provider>

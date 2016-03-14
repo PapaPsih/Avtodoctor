@@ -448,7 +448,7 @@ function show_feedbacks_product ($product_id, $answer_id = -1, $new_feedback = '
                     {
                         $answers = show_feedbacks_product($product_id, $feedback_one->id_feedback, $new_feedback, $answer_cnt +1);
                        $new_feedback .= $answers;
-                        echo $new_feedback;
+
                     }
                     else
                         $new_feedback .= show_feedbacks_product($product_id, $feedback_one->id_feedback, $new_feedback, $answer_cnt +1);
@@ -458,7 +458,8 @@ function show_feedbacks_product ($product_id, $answer_id = -1, $new_feedback = '
 
                 }
 			}
-
+    if ($answer_cnt == 0)
+    echo $new_feedback;
     return $new_feedback;
 }
 
