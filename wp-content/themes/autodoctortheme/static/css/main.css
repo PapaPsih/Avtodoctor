@@ -951,6 +951,7 @@ textarea {
 
 .header-main__i__nav {
   position: relative;
+  padding-top: 10px;
 }
 
 .header-main__i__nav > ul {

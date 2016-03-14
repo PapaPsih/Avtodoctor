@@ -89,3 +89,16 @@ function select_filter ()
         wp_die();
     }
 }
+
+add_action('wp_ajax_select_filters_feedback', 'select_filters_feedback');
+add_action('wp_ajax_nopriv_select_filters_feedback', 'select_filters_feedback');
+
+function select_filters_feedback ()
+{
+    include TECDOC_LOADER_PLUGIN_DIR.'tecdoc_base/tecdoc.php';
+    $data_array = getModels($_POST['brand_id'], $tecdoc_db_link);
+    foreach ($data_array as $id=>$value)
+    {
+        echo '<option value="'.$id.'">'.$value['name'].'</option>';
+    }
+}

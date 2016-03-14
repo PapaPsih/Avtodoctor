@@ -5,76 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="641999b4-2056-438f-aa8a-4c84f46ea52c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/tests/fixtures/libreoffice.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/tests/fixtures/msoffice.xlsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/tests/fixtures/msoffice.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/fixtures/test.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/~$calculator.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/~$pricevlad_20160114_130853_Contr_7725-11.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/AbstractXMLDictionnary.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/AbstractXMLResource.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/Archive.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/ArchiveLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/ArchiveLoaderSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/ArchiveSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/ColumnIndexTransformer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/ColumnIndexTransformerSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Csv/CsvParser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/tests/CsvTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/DateTransformer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/DateTransformerSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/Relationships.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/RelationshipsLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/RelationshipsLoaderSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/RelationshipsSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/RowBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/RowBuilderFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/RowBuilderFactorySpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/RowBuilderSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Csv/RowIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/RowIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Csv/RowIteratorFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/RowIteratorFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/RowIteratorFactorySpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/RowIteratorSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/SharedStrings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/SharedStringsLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/SharedStringsLoaderSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/SharedStringsSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Csv/Spreadsheet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/Spreadsheet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/SpreadsheetInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/SpreadsheetLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Csv/SpreadsheetLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/SpreadsheetLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/SpreadsheetLoaderInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/SpreadsheetLoaderSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/SpreadsheetLoaderSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/SpreadsheetParser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/SpreadsheetSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/Styles.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/StylesLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/StylesLoaderSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/StylesSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/ValueTransformer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/ValueTransformerFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/ValueTransformerFactorySpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/ValueTransformerSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/WorksheetListReader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/WorksheetListReaderSpec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/src/Xlsx/XlsxParser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/tests/XlsxTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/fixtures/sharedStrings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/fixtures/sheet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/fixtures/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/tecdoc_base/tecdoc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/tecdoc_loader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/tests/fixtures/test.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/tests/fixtures/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/fixtures/workbook.xml.rels" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/spreadsheet-parser-master/spec/Akeneo/Component/SpreadsheetParser/Xlsx/fixtures/workbook.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/css/main.css" afterPath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/product-filter/product_filter.php" afterPath="$PROJECT_DIR$/wp-content/plugins/product-filter/product_filter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/services.php" afterPath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/services.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/tecdoc_base/tecdoc.php" afterPath="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/tecdoc_base/tecdoc.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/js/wu_main.js" afterPath="$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/js/wu_main.js" />
     </list>
     <ignored path="wordpress.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -100,59 +38,92 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="246" column="193" selection-start="13144" selection-end="13144" vertical-scroll-proportion="-15.692307" vertical-offset="3774" max-vertical-offset="4692">
+            <state line="226" column="46" selection-start="10973" selection-end="12256" vertical-scroll-proportion="-8.269231" vertical-offset="3627" max-vertical-offset="4760">
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#1;n#div#0;n#div#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#2;n#div#0;n#div#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="0" selection-start="2312" selection-end="2446" vertical-scroll-proportion="659.61536" vertical-offset="18068" max-vertical-offset="19567">
+              <folding>
+                <marker date="1457977594062" expanded="true" signature="8778:8819" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="9124:9180" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="19491:19871" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="19528:19705" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="31030:31753" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="31098:31349" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="31150:31298" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="31417:31524" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="31592:31706" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="33193:33267" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="33244:33267" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="33327:33400" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="33378:33400" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="35259:35333" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="35310:35333" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="35393:35466" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="35444:35466" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="37524:37598" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="37575:37598" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="37658:37731" placeholder="..." />
+                <marker date="1457977594062" expanded="true" signature="37709:37731" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product_filter.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/product-filter/product_filter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="98" column="65" selection-start="4008" selection-end="4008" vertical-scroll-proportion="-20.038462" vertical-offset="1145" max-vertical-offset="1853">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/functions.php">
+      <file leaf-file-name="tecdoc_loader.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/tecdoc_loader.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="443" column="39" selection-start="16988" selection-end="16988" vertical-scroll-proportion="0.4198813" vertical-offset="7248" max-vertical-offset="19584">
+            <state line="11" column="39" selection-start="311" selection-end="311" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="14518">
               <folding>
-                <marker date="1457971877208" expanded="true" signature="8778:8819" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="9124:9180" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="19550:19930" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="19587:19764" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="31089:31812" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="31157:31408" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="31209:31357" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="31476:31583" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="31651:31765" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="33252:33326" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="33303:33326" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="33386:33459" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="33437:33459" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="35318:35392" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="35369:35392" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="35452:35525" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="35503:35525" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="37583:37657" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="37634:37657" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="37717:37790" placeholder="..." />
-                <marker date="1457971877208" expanded="true" signature="37768:37790" placeholder="..." />
+                <marker date="1457723431468" expanded="true" signature="1004:2084" placeholder="..." />
+                <marker date="1457723431468" expanded="true" signature="1044:1084" placeholder="{...}" />
+                <marker date="1457723431468" expanded="true" signature="1090:1257" placeholder="/*...*/" />
+                <marker date="1457723431468" expanded="true" signature="1299:1697" placeholder="{...}" />
+                <marker date="1457723431468" expanded="true" signature="1315:1427" placeholder="{&quot;action&quot;: 'get_products_by_category_id_ajax'...}" />
+                <marker date="1457723431468" expanded="true" signature="1479:1691" placeholder="{...}" />
+                <marker date="1457723431468" expanded="true" signature="1537:1645" placeholder="{...}" />
+                <marker date="1457723431468" expanded="true" signature="1649:1686" placeholder="{...}" />
+                <marker date="1457723431468" expanded="true" signature="1701:1805" placeholder="/*...*/" />
+                <marker date="1457723431468" expanded="true" signature="1852:2072" placeholder="{...}" />
+                <marker date="1457723431468" expanded="true" signature="1922:2031" placeholder="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="feedback.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/feedback/feedback.php">
+      <file leaf-file-name="tecdoc.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/tecdoc_base/tecdoc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="63" selection-start="611" selection-end="611" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="952">
+            <state line="144" column="0" selection-start="8042" selection-end="8042" vertical-scroll-proportion="-22.0" vertical-offset="1876" max-vertical-offset="2550">
               <folding>
-                <marker date="1457830493210" expanded="true" signature="1071:1185" placeholder="SELECT id_fe..." />
-                <marker date="1457830493210" expanded="true" signature="1283:1401" placeholder="SELECT id_fe..." />
+                <marker date="1457980381071" expanded="true" signature="3367:3447" placeholder="SELECT MFA_I..MANUFACTURERS..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="services.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="services.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/services.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="57" selection-start="3018" selection-end="3018" vertical-scroll-proportion="0.0" vertical-offset="727" max-vertical-offset="4777">
+            <state line="245" column="53" selection-start="13497" selection-end="13497" vertical-scroll-proportion="0.73738873" vertical-offset="3600" max-vertical-offset="4760">
               <folding />
             </state>
           </provider>
@@ -161,23 +132,12 @@
       <file leaf-file-name="wu_main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/js/wu_main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="473" column="28" selection-start="14672" selection-end="14685" vertical-scroll-proportion="0.0" vertical-offset="7706" max-vertical-offset="8449">
+            <state line="501" column="31" selection-start="15522" selection-end="15522" vertical-scroll-proportion="0.0" vertical-offset="8004" max-vertical-offset="8721">
               <folding>
-                <marker date="1457912482252" expanded="true" signature="5497:5623" placeholder="..." />
-                <marker date="1457912482252" expanded="true" signature="5552:5623" placeholder="..." />
-                <marker date="1457912482252" expanded="true" signature="5745:5815" placeholder="..." />
-                <marker date="1457912482252" expanded="true" signature="5936:6019" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="archive-product.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/woocommerce/archive-product.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="11" selection-start="1916" selection-end="1916" vertical-scroll-proportion="5.230769" vertical-offset="884" max-vertical-offset="2040">
-              <folding>
-                <marker date="1457032899048" expanded="true" signature="1856:1901" placeholder="SELECT DISTI..wp_product_filters..." />
+                <marker date="1457986202649" expanded="true" signature="5497:5623" placeholder="..." />
+                <marker date="1457986202649" expanded="true" signature="5552:5623" placeholder="..." />
+                <marker date="1457986202649" expanded="true" signature="5745:5815" placeholder="..." />
+                <marker date="1457986202649" expanded="true" signature="5936:6019" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -190,18 +150,6 @@
               <folding>
                 <marker date="1457915867921" expanded="true" signature="701:743" placeholder="SELECT pc_ca..pc_categories..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="autodoctor.wp_feedback" pinned="false" current="false" current-in-tab="false">
-        <entry file="dbDummy://dbtable:/39022cae/18c4beaa-4494-47d7-b84b-83215653ba2f/autodoctor..wp_feedback">
-          <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -230,7 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-query.php" />
         <option value="$PROJECT_DIR$/../../../../../motuki.ua/www/index.php" />
         <option value="$PROJECT_DIR$/../../../../../motuki.ua/www/NewsPage.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/js/feedback_main.js" />
@@ -255,7 +202,6 @@
         <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/contact.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/categories.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/woocommerce/archive-product.php" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/product-filter/product_filter.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/wp-maintenance-mode/views/maintenance.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/woocommerce/content-product.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/all-news.php" />
@@ -268,19 +214,21 @@
         <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/one-article.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/woocommerce/auth/auth_social_fb.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/one-new.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/css/main.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/index.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/js/main.js" />
-        <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/services.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/header.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/newsletter/newsletter.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/feedback/feedback.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/woocommerce/single-product.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/js/wu_main.js" />
         <option value="db-console:/39022cae/18c4beaa-4494-47d7-b84b-83215653ba2f/" />
         <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/included_scripts/prices_calculator.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/tecdoc_base/tecdoc.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/product-filter/product_filter.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/js/wu_main.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/services.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/css/main.css" />
       </list>
     </option>
   </component>
@@ -425,7 +373,159 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autodoctortheme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autodoctortheme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autodoctortheme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecdoc_loader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecdoc_loader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecdoc_base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="product-filter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -441,7 +541,7 @@
     <property name="SearchEverywhereHistory" value="" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.lastSelected" value="settings.github" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -538,7 +638,11 @@
       <created>1457924452737</created>
       <updated>1457924452737</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="14.03.16&#10;">
+      <created>1457971963684</created>
+      <updated>1457971963684</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -562,7 +666,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1554" height="916" extended-state="6" />
+    <frame x="54" y="-8" width="1554" height="916" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939634" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -616,19 +720,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-admin/js/wp-fullscreen-stub.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="8" selection-start="192" selection-end="192" vertical-scroll-proportion="0.09252669" vertical-offset="67" max-vertical-offset="765" />
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/39022cae/8457bd6e-11f0-4887-b945-e9afaaab911c/autodoctor..wu_newsletters_subscribers">
-      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
-      </provider>
-    </entry>
     <entry file="dbDummy://dbtable:/39022cae/8457bd6e-11f0-4887-b945-e9afaaab911c/autodoctor..wu_newsletters">
       <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
         <state />
@@ -737,11 +828,6 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/woocommerce/auth/auth_social.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="713" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9085" column="0" selection-start="179658" selection-end="179658" vertical-scroll-proportion="-16.115385" vertical-offset="154026" max-vertical-offset="154547" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/js/main.js">
@@ -887,11 +973,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/tecdoc_base/tecdoc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="34" selection-start="3335" selection-end="3335" vertical-scroll-proportion="-1.3076923" vertical-offset="969" max-vertical-offset="2414" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/woocommerce/single-product.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="177" column="43" selection-start="7438" selection-end="7438" vertical-scroll-proportion="-21.346153" vertical-offset="2318" max-vertical-offset="4471" />
@@ -910,23 +991,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/js/wu_main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="473" column="28" selection-start="14672" selection-end="14685" vertical-scroll-proportion="0.0" vertical-offset="7706" max-vertical-offset="8449">
-          <folding>
-            <marker date="1457912482252" expanded="true" signature="5497:5623" placeholder="..." />
-            <marker date="1457912482252" expanded="true" signature="5552:5623" placeholder="..." />
-            <marker date="1457912482252" expanded="true" signature="5745:5815" placeholder="..." />
-            <marker date="1457912482252" expanded="true" signature="5936:6019" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/product-filter/product_filter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="9" selection-start="1526" selection-end="1526" vertical-scroll-proportion="1.17119" vertical-offset="0" max-vertical-offset="1632" />
-      </provider>
-    </entry>
     <entry file="dbDummy://dbtable:/39022cae/18c4beaa-4494-47d7-b84b-83215653ba2f/autodoctor..wp_orders_info">
       <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
         <state />
@@ -938,13 +1002,6 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/shopping-cart-step.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="133" column="49" selection-start="8025" selection-end="8025" vertical-scroll-proportion="0.6810089" vertical-offset="1734" max-vertical-offset="5202" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/services.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="57" selection-start="3018" selection-end="3018" vertical-scroll-proportion="0.0" vertical-offset="727" max-vertical-offset="4777">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/included_scripts/db_data.php">
@@ -976,8 +1033,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="63" selection-start="611" selection-end="611" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="952">
           <folding>
-            <marker date="1457830493210" expanded="true" signature="1071:1185" placeholder="SELECT id_fe..." />
-            <marker date="1457830493210" expanded="true" signature="1283:1401" placeholder="SELECT id_fe..." />
+            <marker date="1457830493210" expanded="true" signature="-1:-1" placeholder="SELECT id_fe..." />
+            <marker date="1457830493210" expanded="true" signature="-1:-1" placeholder="SELECT id_fe..." />
           </folding>
         </state>
       </provider>
@@ -990,19 +1047,13 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="659" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="246" column="193" selection-start="13144" selection-end="13144" vertical-scroll-proportion="-15.692307" vertical-offset="3774" max-vertical-offset="4692">
-          <folding />
-        </state>
+    <entry file="dbDummy://dbtable:/39022cae/18c4beaa-4494-47d7-b84b-83215653ba2f/autodoctor..wp_feedback">
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/woocommerce/archive-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="11" selection-start="1916" selection-end="1916" vertical-scroll-proportion="5.230769" vertical-offset="884" max-vertical-offset="2040">
-          <folding>
-            <marker date="1457032899048" expanded="true" signature="1856:1901" placeholder="SELECT DISTI..wp_product_filters..." />
-          </folding>
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1015,42 +1066,125 @@
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/39022cae/18c4beaa-4494-47d7-b84b-83215653ba2f/autodoctor..wp_feedback">
-      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <folding />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/tecdoc_loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="39" selection-start="311" selection-end="311" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="14518">
+          <folding>
+            <marker date="1457723431468" expanded="true" signature="1004:2084" placeholder="..." />
+            <marker date="1457723431468" expanded="true" signature="1044:1084" placeholder="{...}" />
+            <marker date="1457723431468" expanded="true" signature="1090:1257" placeholder="/*...*/" />
+            <marker date="1457723431468" expanded="true" signature="1299:1697" placeholder="{...}" />
+            <marker date="1457723431468" expanded="true" signature="1315:1427" placeholder="{&quot;action&quot;: 'get_products_by_category_id_ajax'...}" />
+            <marker date="1457723431468" expanded="true" signature="1479:1691" placeholder="{...}" />
+            <marker date="1457723431468" expanded="true" signature="1537:1645" placeholder="{...}" />
+            <marker date="1457723431468" expanded="true" signature="1649:1686" placeholder="{...}" />
+            <marker date="1457723431468" expanded="true" signature="1701:1805" placeholder="/*...*/" />
+            <marker date="1457723431468" expanded="true" signature="1852:2072" placeholder="{...}" />
+            <marker date="1457723431468" expanded="true" signature="1922:2031" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="443" column="39" selection-start="16988" selection-end="16988" vertical-scroll-proportion="0.4198813" vertical-offset="7248" max-vertical-offset="19584">
+        <state line="54" column="0" selection-start="2312" selection-end="2446" vertical-scroll-proportion="659.61536" vertical-offset="18068" max-vertical-offset="19567">
           <folding>
-            <marker date="1457971877208" expanded="true" signature="8778:8819" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="9124:9180" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="19550:19930" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="19587:19764" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="31089:31812" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="31157:31408" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="31209:31357" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="31476:31583" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="31651:31765" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="33252:33326" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="33303:33326" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="33386:33459" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="33437:33459" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="35318:35392" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="35369:35392" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="35452:35525" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="35503:35525" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="37583:37657" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="37634:37657" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="37717:37790" placeholder="..." />
-            <marker date="1457971877208" expanded="true" signature="37768:37790" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="8778:8819" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="9124:9180" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="19491:19871" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="19528:19705" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="31030:31753" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="31098:31349" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="31150:31298" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="31417:31524" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="31592:31706" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="33193:33267" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="33244:33267" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="33327:33400" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="33378:33400" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="35259:35333" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="35310:35333" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="35393:35466" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="35444:35466" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="37524:37598" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="37575:37598" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="37658:37731" placeholder="..." />
+            <marker date="1457977594062" expanded="true" signature="37709:37731" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/product-filter/product_filter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="65" selection-start="4008" selection-end="4008" vertical-scroll-proportion="-20.038462" vertical-offset="1145" max-vertical-offset="1853">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/prices_calculator/prices_calculator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.310873" vertical-offset="2815" max-vertical-offset="3468">
+          <folding>
+            <marker date="1451350901376" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1451350901376" expanded="true" signature="-1:-1" placeholder="SELECT pc_se..pc_services..." />
+            <marker date="1451350901376" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1451350901376" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/tecdoc_loader/tecdoc_base/tecdoc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="144" column="0" selection-start="8042" selection-end="8042" vertical-scroll-proportion="-22.0" vertical-offset="1876" max-vertical-offset="2550">
+          <folding>
+            <marker date="1457980381071" expanded="true" signature="3367:3447" placeholder="SELECT MFA_I..MANUFACTURERS..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/js/wu_main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="501" column="31" selection-start="15522" selection-end="15522" vertical-scroll-proportion="0.0" vertical-offset="8004" max-vertical-offset="8721">
+          <folding>
+            <marker date="1457986202649" expanded="true" signature="5497:5623" placeholder="..." />
+            <marker date="1457986202649" expanded="true" signature="5552:5623" placeholder="..." />
+            <marker date="1457986202649" expanded="true" signature="5745:5815" placeholder="..." />
+            <marker date="1457986202649" expanded="true" signature="5936:6019" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/woocommerce/archive-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="11" selection-start="1916" selection-end="1916" vertical-scroll-proportion="0.4792285" vertical-offset="425" max-vertical-offset="2040">
+          <folding>
+            <marker date="1457032899048" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..wp_product_filters..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="226" column="46" selection-start="10973" selection-end="12256" vertical-scroll-proportion="-8.269231" vertical-offset="3627" max-vertical-offset="4760">
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#div#0;n#div#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#2;n#div#0;n#div#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="953" column="1" selection-start="18159" selection-end="18159" vertical-scroll-proportion="0.50285715" vertical-offset="15849" max-vertical-offset="154564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/autodoctortheme/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="245" column="53" selection-start="13497" selection-end="13497" vertical-scroll-proportion="0.73738873" vertical-offset="3600" max-vertical-offset="4760">
+          <folding />
         </state>
       </provider>
     </entry>

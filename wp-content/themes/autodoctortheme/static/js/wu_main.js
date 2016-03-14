@@ -480,10 +480,26 @@ function select_filter (filter, cat_id)
         cat_id: cat_id
     }
     jQuery.post( myajax.url, data, function(response){
-        console.log(data);
-        console.log(response);
+       // console.log(data);
+       // console.log(response);
         $('#'+filter).html(response);
        // $('.sorting').spin(false);
+    });
+}
+
+function select_filter_feedback ()
+{
+     $('#filter').spin();
+    var data =
+    {
+        action: 'select_filters_feedback',
+        brand_id: $('#auto_brand option:selected').val()
+    }
+    jQuery.post( myajax.url, data, function(response){
+      //  console.log(data);
+       // console.log(response);
+        $('#model').html(response);
+        $('#filter').spin(false);
     });
 }
 

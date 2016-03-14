@@ -225,22 +225,25 @@
                         <input name="feedback_location" type="hidden" value="services">
                     </div>
                     <!-- row end-->
-                    <div class="row">
+                    <div class="row" id="filter">
                         <div class="row_i">
                             <div class="col col_50">
-                                <select name="auto_brand" class="select-inp" data-placeholder="Марка автомобиля">
+                                <select id="auto_brand" name="auto_brand" class="select-inp" data-placeholder="Марка автомобиля" onclick="select_filter_feedback()">
                                     <option></option>
-                                    <option value="Mrecedess">Марка автомобиля</option>
-                                    <option value="Honda">Марка автомобиля</option>
-                                    <option value="Reno">Марка автомобиля</option>
+                                    <?php
+                                    include TECDOC_LOADER_PLUGIN_DIR.'tecdoc_base/tecdoc.php';
+                                    $data_array = getBrands($tecdoc_db_link);
+
+                                    foreach ($data_array as $value)
+                                    {
+                                        echo '<option value="'.$value['ID'].'">'.$value['name'].'</option>';
+                                    }
+                                    ?>
                                 </select>
                             </div>
                             <div class="col col_50">
-                                <select name="model" class="select-inp" data-placeholder="Модель">
+                                <select id="model" name="model" class="select-inp" data-placeholder="Модель">
                                     <option></option>
-                                    <option value="WY">Модель</option>
-                                    <option value="AL">Модель</option>
-                                    <option value="AL">Модель</option>
                                 </select>
                             </div>
                         </div>

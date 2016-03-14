@@ -418,7 +418,6 @@ function show_feedbacks_product ($product_id, $answer_id = -1, $new_feedback = '
             'answer_id' => $answer_id
 							);
 			$result_list = get_feedback_list ($feedback_data);
-  // var_dump($result_list);
 
         if ($result_list)
                 $new_feedback .= '<div class="media">';
@@ -446,12 +445,12 @@ function show_feedbacks_product ($product_id, $answer_id = -1, $new_feedback = '
                                             </div>';
                     if ($answer_cnt == 0)
                     {
-                        $answers = show_feedbacks_product($product_id, $feedback_one->id_feedback, $new_feedback, $answer_cnt +1);
+                        $answers = show_feedbacks_product($product_id, $feedback_one->id_feedback, $answer_cnt +1);
                        $new_feedback .= $answers;
 
                     }
                     else
-                        $new_feedback .= show_feedbacks_product($product_id, $feedback_one->id_feedback, $new_feedback, $answer_cnt +1);
+                        $new_feedback .= show_feedbacks_product($product_id, $feedback_one->id_feedback, $answer_cnt +1);
 
                   //for ($i=0; $i<$answer_cnt; $i++)
                        // $new_feedback .= '</div></div>';

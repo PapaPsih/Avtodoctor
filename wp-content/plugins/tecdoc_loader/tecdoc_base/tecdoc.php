@@ -61,7 +61,6 @@
 		$result = mysql_query("SELECT MFA_ID, MFA_BRAND 
 								FROM MANUFACTURERS 
 								ORDER BY MFA_BRAND;", $tecdoc_db_link);
-		$row = mysql_fetch_assoc($result);
 		while ($row = mysql_fetch_assoc($result)) {
 		    $data_array[] = array("ID" => $row["MFA_ID"],
 		    					  "name" => $row["MFA_BRAND"]);
@@ -76,7 +75,6 @@
 								INNER JOIN DES_TEXTS ON TEX_ID = CDS_TEX_ID 
 								WHERE MOD_MFA_ID = " . $brand_id . " AND CDS_LNG_ID = 16 
 								ORDER BY MOD_CDS_TEXT;", $tecdoc_db_link);
-		$row = mysql_fetch_assoc($result);
 		while ($row = mysql_fetch_assoc($result)) {
 		    $data_array[] = array("ID" => $row["MOD_ID"],
 		    					  "name" => $row["MOD_CDS_TEXT"]);
@@ -89,9 +87,8 @@
 								FROM MODELS 
 								INNER JOIN COUNTRY_DESIGNATIONS ON CDS_ID = MOD_CDS_ID 
 								INNER JOIN DES_TEXTS ON TEX_ID = CDS_TEX_ID 
-								WHERE CDS_LNG_ID = 16 AND MOD_ID = " . $model_id . "
+								WHERE CDS_LNG_ID = 16 AND MOD_ID = '" . $model_id . "'
 								ORDER BY MOD_CDS_TEXT;", $tecdoc_db_link);
-		$row = mysql_fetch_assoc($result);
 		while ($row = mysql_fetch_assoc($result)) {
 		    $data_array[] = array("start_date" => $row["MOD_PCON_START"],
 		    					  "end_date" => $row["MOD_PCON_END"]);
@@ -118,7 +115,6 @@
 								LEFT JOIN DES_TEXTS AS DES_TEXTS6 ON DES_TEXTS6.TEX_ID = DESIGNATIONS5.DES_TEX_ID
 								WHERE TYP_MOD_ID = " . $model_id . " AND TYP_PCON_START > " . $start_date . " AND TYP_PCON_END < " . $end_date . "
 								ORDER BY TYP_CDS_TEXT;", $tecdoc_db_link);
-		$row = mysql_fetch_assoc($result);
 		while ($row = mysql_fetch_assoc($result)) {
 		    $data_array[] = array("ID" => $row["TYP_ID"],
 		    					  "name" => $row["TYP_CDS_TEXT"]);
@@ -128,9 +124,21 @@
 
 	if($_POST['quick_post']){
 		switch ($_POST['quick_post']) {
+			case 'get_brands':
+				$brands = getBrands($tecdoc_db_link);
+				echo json_encode($brands);
+				break;
 			case 'get_models':
 				$models = getModels($_POST['brand_id'], $tecdoc_db_link);
 				echo json_encode($models);
+				break;
+			case 'get_years':
+				$years = getYears($_POST['model_id'], $tecdoc_db_link);
+				echo json_encode($years);
+				break;
+			case 'get_modifications':
+				$modifications = getModifications($_POST['model_id'], $_POST['start_date'], $_POST['end_date'], $tecdoc_db_link);
+				echo json_encode($modifications);
 				break;
 		}
 	}
